@@ -15,6 +15,9 @@
 <li>
     <a href="inhoudsopgave.php">Hoofdstuk 1</a>
 </li>
+<li>
+    <a href="aantal.php">Hoofdstuk 2(variabelen begin PHP)</a>
+</li>
 
 <?php
 $hello = "Hello";
