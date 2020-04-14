@@ -12,7 +12,7 @@
 <h3> Hensley Hubert</h3>
 
 <li>
-    <a href="index.php">Terug naar de index</a>
+    <a href="../index.php">Terug naar de index</a>
 </li>
 </body>
 </html>
