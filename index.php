@@ -16,7 +16,12 @@ $world = "World";
 
 echo "<h2>$hello {$world}!";
 ?>
-
+<style>
+body {
+    width: 20px;
+    height: 20px;
+}
+</style>
 <li>
     <a href="h1/inhoudsopgave.php">Hoofdstuk 1</a>
 </li>
