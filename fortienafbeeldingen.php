@@ -11,8 +11,6 @@
 
         .rood {
             border: red solid 5px;
-            padding-right: 5px;
-            padding-top: 5px;
         }
         .groen {
             border: green solid 5px;
