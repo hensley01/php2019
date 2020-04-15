@@ -26,22 +26,22 @@ echo "<h2>$hello {$world}!";
 </li>
 <h2>Hoofdstuk 3</h2>
 <li>
-    <a href="fortienafbeeldingen.php">Hoofdstuk 3, 10 afbeeldingen</a>
+    <a href="response1.php">Hoofdstuk 3, 10 afbeeldingen</a>
 </li>
 <li>
-    <a href="fortienboom.php">Hoofdstuk 3, boom afbeeldingen</a>
+    <a href="h3/fortienboom.php">Hoofdstuk 3, boom afbeeldingen</a>
 </li>
 <li>
-    <a href="kerstboom.php">Hoofdstuk 3, kerstboom/array</a>
+    <a href="h3/kerstboom.php">Hoofdstuk 3, kerstboom/array</a>
 </li>
 <li>
 <a href="whiletofor.php">Hoofdstuk 3, hoppelepee opdracht(omzetten naar array)</a>
 </li>
 <li>
-    <a href="fortienafbeeldingen.php">Hoofdstuk 3, aap afbeeldingen groen/rood</a>
+    <a href="h3/fortienafbeeldingen.php">Hoofdstuk 3, aap afbeeldingen groen/rood</a>
 </li>
 <li>
-    <a href="busreis.php">Hoofdstuk 3, busreis</a>
+    <a href="h3/busreis.php">Hoofdstuk 3, busreis</a>
 </li>
 <li>
     <a href="h3/zwemclubs.php">Hoofdstuk 3, zwemclubs</a>
