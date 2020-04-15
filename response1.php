@@ -1,11 +1,11 @@
 <?php
 
-//echo "<img src= 'apen/".$_POST['apen'].".jpg'>";
+//echo "<img src= 'img/".$_POST['img'].".jpg'>";
 
-print_r($_POST['apen']);
+print_r($_POST['img']);
 
 
-foreach ($_POST ['apen'] as $aap) {
-    echo "<img src='apen/".$aap.".jpg'>";
+foreach ($_POST ['img'] as $aap) {
+    echo "<img src='img/".$aap.".jpg'>";
 }
 

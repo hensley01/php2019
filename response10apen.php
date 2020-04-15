@@ -1,7 +1,3 @@
-<?php
-
-?>
-
 <!doctype html>
 <html>
 <head>
@@ -9,8 +5,8 @@
 </head>
 <body>
 <?php
-for ($i = 1; $i<=9 ;$i++) {
-    echo "<img src='apen/".$i.".jpg'>";
+for ($i = 1; $i <= 9; $i++) {
+    echo "<img src='img/aap" . $i . ".jpg'>";
 }
 ?>
 
