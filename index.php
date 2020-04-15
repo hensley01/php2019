@@ -16,18 +16,15 @@ $world = "World";
 
 echo "<h2>$hello {$world}!";
 ?>
-<style>
-body {
-    width: 20px;
-    height: 20px;
-}
-</style>
+
 <li>
     <a href="h1/inhoudsopgave.php">Hoofdstuk 1</a>
 </li>
+<h2>Hoofdstuk 2</h2>
 <li>
     <a href="h2/aantal.php">Hoofdstuk 2(variabelen begin PHP)</a>
 </li>
+<h2>Hoofdstuk 3</h2>
 <li>
     <a href="fortienafbeeldingen.php">Hoofdstuk 3, 10 afbeeldingen</a>
 </li>
@@ -48,6 +45,13 @@ body {
 </li>
 <li>
     <a href="h3/zwemclubs.php">Hoofdstuk 3, zwemclubs</a>
+</li>
+<h2>Hoofdstuk 4</h2>
+<li>
+    <a href="h4/codefuncties.php">Hoofdstuk 4 codefuncties</a>
+</li>
+<li>
+    <a href="h6/tabelhoofdstuk6.php">MYSQL tabel gelinkt met PHP</a>
 </li>
 </body>
 </html>
