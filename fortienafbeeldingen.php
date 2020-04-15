@@ -25,7 +25,7 @@ for ($i = 1; $i <= 9; $i++) {
         } else {
         $class = "class = 'green'";
     }
-echo "<img ".$class."src= 'img/aap".$i.".jpg'>";
+echo "<img ".$class."src= 'img/apen/aap".$i.".jpg'>";
 }
 ?>
 </body>
