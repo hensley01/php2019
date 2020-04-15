@@ -26,7 +26,7 @@ echo "<h2>$hello {$world}!";
 </li>
 <h2>Hoofdstuk 3</h2>
 <li>
-    <a href="response1.php">Hoofdstuk 3, 10 afbeeldingen</a>
+    <a href="response10apen.php">Hoofdstuk 3, 10 afbeeldingen</a>
 </li>
 <li>
     <a href="fortienboom.php">Hoofdstuk 3, boom afbeeldingen</a>
