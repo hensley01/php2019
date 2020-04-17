@@ -57,5 +57,11 @@ echo "<h2>$hello {$world}!";
 <li>
     <a href="h6/tabelhoofdstuk6.php">MYSQL tabel gelinkt met PHP</a>
 </li>
+<li>
+    <h2>Hoofdstuk 7</h2>
+</li>
+<li>
+    <a href="h7/login.php">loginpagina van PHP</a>
+</li>
 </body>
 </html>

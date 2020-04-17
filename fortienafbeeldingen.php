@@ -1,5 +1,3 @@
-<?php
-?>
 <!doctype html>
 <html>
 <head>
@@ -10,10 +8,10 @@
         }
 
         .rood {
-            border: red solid 5px;
+            border: red solid 2px;
         }
         .groen {
-            border: green solid 5px;
+            border: green solid 2px;
         }
     </style>
 </head>
