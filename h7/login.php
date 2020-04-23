@@ -19,7 +19,6 @@ if (isset($_POST['knop'])
 } else {
     $message = "Inloggen";
 }
-print_r($_SESSION);
 ?>
 
 <html xmlns="http://www.w3.org/1999/html">
