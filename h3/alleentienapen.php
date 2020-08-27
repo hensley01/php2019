@@ -5,8 +5,10 @@
 </head>
 <body>
 <?php
-for ($i = 1; $i <= 9; $i++) {
-    echo "<img src='img/aap" . $i . ".jpg'>";
+
+for($i = 1 ; $i <= 10 ; $i++) {
+    echo '<img src="apen/aap' . $i . '.jpg" alt="aap1">';
+
 }
 ?>
 
