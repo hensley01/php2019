@@ -29,7 +29,7 @@ echo "<h2>$hello {$world}!";
     <a href="h3/alleentienapen.php">Hoofdstuk 3, 10 afbeeldingen</a>
 </li>
 <li>
-    <a href="h3/alleentienapenarray.php">Hoofdstuk 3, boom afbeeldingen</a>
+    <a href="h3/alleentienapenarray.php">Hoofdstuk 3, tien apen afbeeldingen in een araay</a>
 </li>
 <li>
     <a href="h3/kerstboom.php">Hoofdstuk 3, kerstboom/array</a>
@@ -45,6 +45,9 @@ echo "<h2>$hello {$world}!";
 </li>
 <li>
     <a href="h3/zwemclubs.php">Hoofdstuk 3, zwemclubs</a>
+</li>
+<li>
+    <a href="h3/kapperszaak.php">Hoofdstuk 3, kapperszaak welke tijden nog beschikbaar?</a>
 </li>
 <h2>Hoofdstuk 4</h2>
 <li>
