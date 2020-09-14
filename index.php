@@ -51,7 +51,13 @@ echo "<h2>$hello {$world}!";
 </li>
 <h2>Hoofdstuk 4</h2>
 <li>
-    <a href="h4/codefuncties.php">Hoofdstuk 4 codefuncties</a>
+    <a href="h4/celsiusfuntie.php">Hoofdstuk 4 celcius en fahrenheit</a>
+</li>
+<li>
+    <a href="h4/deelbaardoor3.php">Hoofdstuk 4 deelbaar door 3</a>
+</li>
+<li>
+    <a href="h4/reversestring.php">Hoofdstuk 4 reverse strings </a>
 </li>
 <li>
     <h2>Hoofdstuk 5</h2>
